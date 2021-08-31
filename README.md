@@ -2,6 +2,7 @@
 
 # Check my Data Engineering Projects:
 
+* [ETL Script with Redshift](https://github.com/guiml/AWS-JSON-Redshift-Pipeline)
 * [ETL Script with Apache Cassandra](https://github.com/guiml/ETL-Cassandra)
 * [AWS Lambda ETL](https://github.com/guiml/aws-lambda-dc)
 * [Brazilian Census Data Wrangling](https://github.com/guiml/IBGE)
