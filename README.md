@@ -2,7 +2,8 @@
 
 # Check my Data Engineering Projects:
 
-* [Data Lake with Spark] (https://github.com/guiml/DataLakesWithSparkforSparkify)
+
+* [Data Lake with Spark](https://github.com/guiml/DataLakesWithSparkforSparkify)
 * [ETL Script with Redshift](https://github.com/guiml/AWS-JSON-Redshift-Pipeline)
 * [ETL Script with Apache Cassandra](https://github.com/guiml/ETL-Cassandra)
 * [AWS Lambda ETL](https://github.com/guiml/aws-lambda-dc)
