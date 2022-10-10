@@ -9,7 +9,7 @@
 * [AWS Lambda ETL](https://github.com/guiml/aws-lambda-dc)
 * [Brazilian Census Data Wrangling](https://github.com/guiml/IBGE)
 * [Ticket prices scrapper](https://github.com/guiml/TicketPriceScrapper)
-* [Brazilian Electoral Zones scrapper](https://github.com/guiml/electoral_zones_scraping)
+* [Brazilian Electoral Zones scrapper](https://github.com/guiml/TRERS-Secoes-scrapper)
 
 # Check my Data Science Projects:
 
