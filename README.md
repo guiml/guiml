@@ -18,12 +18,9 @@
 * [Asthma Prediction NYU 2020](https://github.com/guiml/MLC_NYC_Asthma_Predictions)
 
 # Check my Data Visualization Project:
+* [2022 Elections analytics]([https://github.com/guiml/dashboard-datachallenge-2020](https://github.com/guiml/2022VotesAnalytics))
 * [JBS Dashboard Data Challenge with Heroku](https://github.com/guiml/dashboard-datachallenge-2020)
 * [Urban Science Informatics Capstone NYU 2020](https://github.com/guiml/NYU2020_Dashboard)
-
-
-
-
 
 
 <!---
